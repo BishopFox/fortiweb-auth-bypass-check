@@ -6,7 +6,7 @@ FortiWeb auth bypass scanner by Bishop Fox
 - Only exploits a path traversal, does not exploit the actual auth bypass
 - Does not perform any administrative actions on the target
 
-For more information about this vulnerability, refer to the [Bishop Fox blog](https://bishopfox.com/blog).
+For more information about this vulnerability, refer to the [Bishop Fox blog](https://bishopfox.com/blog/fortinet-fortiweb-authentication-bypass-cve-2025-64446).
 
 ## Setup
 

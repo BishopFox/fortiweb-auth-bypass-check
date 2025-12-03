@@ -41,8 +41,6 @@ Usage: python3 scan.py https://[TARGET]
             verify=False,
             timeout=15,
         )
-        print(resp.status_code, resp.text)
-        exit()
 
         # Result
         if (
